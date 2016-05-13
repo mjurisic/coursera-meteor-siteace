@@ -1,4 +1,8 @@
 /* CSS declarations go here */
-.hidden_div{
-	display:none;
+.hidden_div {
+    display: none;
+}
+
+.login_div {
+    margin-right: 150px;
 }
